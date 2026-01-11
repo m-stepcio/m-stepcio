@@ -42,6 +42,8 @@ I value clear architecture, well-defined responsibilities, and pragmatic enginee
   <li>Cloud-based data workflows on AWS</li>
 </ul>
 
+<div>My old github account <a href="https://github.com/m-stepien">https://github.com/m-stepien</a></div>
+
 ###
 
 <h2 align="left">Connect with me:</h2>
@@ -76,14 +78,14 @@ I value clear architecture, well-defined responsibilities, and pragmatic enginee
 ###
 <div align="center">
 <span align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-stepien&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-stepcio&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </span>
 <span align="right">
-  <img src="https://streak-stats.demolab.com?user=m-stepien&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=m-stepcio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
 </span>
 </div>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-stepien&radius=16&theme=github-dark&area=true&order=5&custom_title=Contributions%20Graph" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-stepcio&radius=16&theme=github-dark&area=true&order=5&custom_title=Contributions%20Graph" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
